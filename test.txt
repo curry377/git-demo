@@ -7,6 +7,8 @@ hello git     master update
 hello git     test update
 hello git     master
 hello git
+hello git     test
+hello git     test
 hello git
 hello git
 hello git
