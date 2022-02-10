@@ -4,6 +4,7 @@ hello git     hot fix
 hello git     master
 hello git     hotfix update
 hello git     master update
+hello git     test update
 hello git
 hello git
 hello git
